@@ -1,0 +1,5 @@
+GİZLİLİK VE TİCARİ FATURALANDIRMA SÖZLEŞMESİ
+
+Madde 1 - Fatura Kesim Süreçleri: Hizmet sağlayıcı, tamamlanan her işin ardından takip eden ayın ilk 5 iş günü içinde faturasını elektronik ortamda (e-fatura) iletmekle yükümlüdür. Geciken faturalar bir sonraki ödeme dönemine aktarılır.
+Madde 2 - Hukuki Risk ve Cezai Şartlar: Taraflardan birinin sözleşmedeki gizlilik maddelerini ihlal ettiği Doğal Dil İşleme (NLP) sistemleri veya manuel denetimlerle tespit edilirse, ihlal eden taraf 50.000 TL cezai tazminat ödemeyi kabul eder.
+Madde 3 - Sözleşme Feshi: Fatura ödemelerinin art arda 3 ay boyunca gecikmesi durumunda, hizmet sağlayan taraf sözleşmeyi tek taraflı olarak ve herhangi bir ceza ödemeksizin feshetme hakkına sahiptir.
