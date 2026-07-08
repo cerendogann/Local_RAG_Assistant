@@ -1,8 +1,0 @@
-TESLİMAT PLATFORMU TAŞIYICI ONAY VE İŞLEYİŞ SÜRECİ
-
-Sistemimiz, göndericiler ile doğrulanmış taşıyıcıları güvenli bir şekilde eşleştirmek üzere 5 adımlı bir süreç kullanır:
-1. Kayıt ve Kimlik Doğrulama: Taşıyıcı olmak isteyen kullanıcılar, sisteme ehliyet ve adli sicil kaydı yüklemek zorundadır.
-2. Araç Kontrolü: Taşıyıcının kullanacağı aracın sigorta poliçesi ve ruhsatı sistem tarafından otomatik olarak taranır.
-3. Onay Seviyeleri: Belgeleri eksiksiz olan taşıyıcılar "Seviye 1" statüsüne geçer. 50 başarılı teslimat sonrasında "Seviye 2" (Güvenilir Taşıyıcı) rozeti alınır.
-4. Eşleştirme Algoritması: Göndericinin girdiği paket boyutuna ve rotaya en uygun Seviye 1 veya Seviye 2 taşıyıcılar listelenir.
-5. Teslimat ve Ödeme: Teslimat alıcıya ulaştığında gönderilen onay kodu sisteme girilir ve taşıyıcının hak edişi hesabına aktarılır.
